@@ -1,0 +1,26 @@
+{
+  "name": "childrens-trust",
+  "version": "1.0.0",
+  "description": "Children's Trust WordPress Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccainwill/childrens-trust.git"
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "author": "Will McCain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccainwill/childrens-trust/issues"
+  },
+  "homepage": "https://github.com/mccainwill/childrens-trust#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
